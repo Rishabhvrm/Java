@@ -1,0 +1,18 @@
+Object Orientation >> Assingment 1 (Constructor)
+
+1. Parent
+    Derived
+    Derived
+
+2. Output can't be shown because the constructor Coordinate is not     correctly defined during object creation. Parameters must be     passed to it.
+    If it was like 
+	Coordinate p = new Coordinate(3,2);
+    Then the output would have been
+	x = 3, y = 2
+
+3. x = 5
+
+4. Compile time error because foo() in SuperClass has lesser scope than foo() in Child. [ scope of a method in parent class must be greater than scope of method in child class ]
+
+5. Don't know the answer.
+    I've tried this in Netbeans and the answer was "In String". Please     explain.

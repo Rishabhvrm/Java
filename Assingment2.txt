@@ -1,0 +1,13 @@
+Object Orientation >>> Assingment 2
+
+1. By using "Interface", multiple inheritance is allowed in Interface.
+
+2. By making it "Private".
+
+3. Don't know.(doubt)
+
+4. I guess yes.(doubt)
+
+5. no, because a field or method without access modifier is "default". And default methods can only be used within same package
+ 
+6. Can't be "private" but can be "protected" because when class is private it won't allow anyone to inherit it's properties.

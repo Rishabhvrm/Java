@@ -1,0 +1,3 @@
+9. No we can not however we can create a new array with only the elements that we want and point to that array but our original array will remain same.
+
+10. Compile time error.
